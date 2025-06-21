@@ -314,7 +314,7 @@ O projeto aparenta ter sucesso em implementar uma FPU funcional que atende aos r
 - `fpu_Mod.vhdl`: Módulo principal da FPU
 - `tb_fpu.vhdl`: Testbench com 10 casos de teste
 - `sim.do`: Script de simulação
-- `README.md`: Documentação do projeto
+- `README.md`: Documentação do projeto, servindo também de relatório do mesmo
 
 ---
 
