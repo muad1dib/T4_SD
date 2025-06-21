@@ -226,15 +226,18 @@ Cada teste segue a estrutura:
 ![soma_inicio](https://github.com/user-attachments/assets/b7027a67-7fc4-4837-9501-190c18c9fcaf)
 ![soma_final](https://github.com/user-attachments/assets/31b46c4a-fc66-4e8c-9db0-56f81f940ba4)
 
+
 #### Teste 2: Subtração Básica
 ![sub_in](https://github.com/user-attachments/assets/15183456-ff9c-4fdb-8f1e-825ceb129e98)
 ![sub_m](https://github.com/user-attachments/assets/b2e31262-d0e0-4a77-91b3-d0675f6e6b48)
 ![sub_res](https://github.com/user-attachments/assets/9be4e44f-ca79-41d6-b01f-bb94f34981b7)
 
+
 #### Teste 3: Soma com Zero
 ![soma_0_in](https://github.com/user-attachments/assets/604f67f3-5a45-4475-ae30-59e1db82b2ab)
 ![soma_0_m](https://github.com/user-attachments/assets/0e12efad-c281-436a-8659-f8faf08a0574)
 ![soma_0_res](https://github.com/user-attachments/assets/4ba13095-ce90-4e83-95ce-6d9b0ce15f48)
+
 
 #### Teste 4: Subtração com Resultado Zero
 ![sub=0_in](https://github.com/user-attachments/assets/1626c8b4-4978-49ea-a7d9-f5d3d825497e)
@@ -248,17 +251,33 @@ Cada teste segue a estrutura:
 
 
 #### Teste 6: Underflow
+![under_in](https://github.com/user-attachments/assets/75452dd0-a7c1-45ed-b27c-14bd42083e16)
+![under_m](https://github.com/user-attachments/assets/538dbfdc-7144-463f-bf1c-5634d074adf3)
+![under_f](https://github.com/user-attachments/assets/3c5d5691-0e1e-438c-afcb-2c1a40ce643b)
 
 
 #### Teste 7: Soma com Infinito
+![soma_inf_in](https://github.com/user-attachments/assets/78a7b107-dfcc-4012-9986-a25944bbd290)
+![soma_inf_m](https://github.com/user-attachments/assets/12bd5c22-1ad6-48c5-a843-94ce7284f52d)
+![soma_inf_fin](https://github.com/user-attachments/assets/4281c767-815f-4104-9703-1b0eea913ba6)
 
 
 #### Teste 8: Infinito - Infinito = NaN
+![inf_sub_in](https://github.com/user-attachments/assets/afde8c32-cb40-4a4a-9bc5-dbfb44da15ca)
+![inf_sub_m](https://github.com/user-attachments/assets/1cbea899-9a62-4032-b813-5b7655738f10)
+![inf_sub_fin](https://github.com/user-attachments/assets/1fdf3f75-9694-421c-93a8-ce910d6a1546)
 
 
 #### Teste 9: Arredondamento
+![Screenshot_2025-06-20_21-28-38](https://github.com/user-attachments/assets/1d821a4a-1b6f-4361-81d9-b137bd2de239)
+![Screenshot_2025-06-20_21-29-02](https://github.com/user-attachments/assets/034c4d3d-1c26-4c6e-81cf-cd293896037e)
+![Screenshot_2025-06-20_21-29-16](https://github.com/user-attachments/assets/a047b156-ff35-4adc-989c-f86a7a877dbf)
+
 
 #### Teste 10: Sinais Mistos
+![Screenshot_2025-06-20_21-30-02](https://github.com/user-attachments/assets/6678f698-9871-456a-842a-ad6242bcf73d)
+![Screenshot_2025-06-20_21-30-21](https://github.com/user-attachments/assets/a470f47c-9cf0-4168-ac4b-50def2335bc5)
+![Screenshot_2025-06-20_21-30-32](https://github.com/user-attachments/assets/a149e4bf-b766-4ca1-8d2d-e3bfd9691f6c)
 
 
 ---
