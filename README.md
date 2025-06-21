@@ -223,19 +223,28 @@ Cada teste segue a estrutura:
 ### Imagens dos Testes
 
 #### Teste 1: Soma Básica
+![soma_inicio](https://github.com/user-attachments/assets/b7027a67-7fc4-4837-9501-190c18c9fcaf)
 ![soma_final](https://github.com/user-attachments/assets/31b46c4a-fc66-4e8c-9db0-56f81f940ba4)
 
-
 #### Teste 2: Subtração Básica
-
+![sub_in](https://github.com/user-attachments/assets/15183456-ff9c-4fdb-8f1e-825ceb129e98)
+![sub_m](https://github.com/user-attachments/assets/b2e31262-d0e0-4a77-91b3-d0675f6e6b48)
+![sub_res](https://github.com/user-attachments/assets/9be4e44f-ca79-41d6-b01f-bb94f34981b7)
 
 #### Teste 3: Soma com Zero
-
+![soma_0_in](https://github.com/user-attachments/assets/604f67f3-5a45-4475-ae30-59e1db82b2ab)
+![soma_0_m](https://github.com/user-attachments/assets/0e12efad-c281-436a-8659-f8faf08a0574)
+![soma_0_res](https://github.com/user-attachments/assets/4ba13095-ce90-4e83-95ce-6d9b0ce15f48)
 
 #### Teste 4: Subtração com Resultado Zero
+![sub=0_in](https://github.com/user-attachments/assets/1626c8b4-4978-49ea-a7d9-f5d3d825497e)
+![sub=0_fin](https://github.com/user-attachments/assets/1ca4b34c-1da7-4814-9278-8244d3a17fc1)
 
 
 #### Teste 5: Overflow
+![of_in](https://github.com/user-attachments/assets/30e133df-76e3-47ff-9be6-cb4f8bfa1d7c)
+![of_m](https://github.com/user-attachments/assets/a9529756-7f24-41f6-a118-f7cf77c517b2)
+![of_fin](https://github.com/user-attachments/assets/905d85f7-338c-4e66-aa74-5a43d5222ae3)
 
 
 #### Teste 6: Underflow
